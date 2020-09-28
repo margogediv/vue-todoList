@@ -12,7 +12,7 @@
         v-bind:todos="todos"
         @remove-todo="removeTodo"
     />
-    <p v-else>No todos!</p>
+    <p v-else>No todos!!</p>
   </div>
 </template>
 
